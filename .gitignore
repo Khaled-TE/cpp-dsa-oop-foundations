@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Editors / local tool config
+.idea/
+.vscode/
+.claude/
+
+# Java
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
